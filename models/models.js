@@ -1,0 +1,2 @@
+  require('./Posts');
+  require('./Comment');
